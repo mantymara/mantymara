@@ -58,6 +58,12 @@ Application web de gestion de stock pour une pharmacie.
 Plateforme e-learning avec suivi de progression et paiement en ligne.
 `Angular` `Django` `MySQL`
 
+## 📊 Statistiques GitHub
+
+![Stats GitHub de mantymara](https://github-readme-stats.vercel.app/api?username=mantymara&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![Streak GitHub](https://nirzak-streak-stats.vercel.app/?user=mantymara&theme=dark&hide_border=false)
+![Top langages](https://github-readme-stats.vercel.app/api/top-langs/?username=mantymara&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ## 📫 Me contacter
 - LinkedIn : https://www.linkedin.com/in/manty-mara-2605b1264/
 - Email : mantymama@gmail.com
